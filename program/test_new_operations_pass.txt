@@ -1,0 +1,6 @@
+5 == 5
+3.0 != 5.0
+true && false
+false || true
+"hello" + "world"
+10 == 10.0
